@@ -15,7 +15,7 @@
     },
     "autoload": {
         "psr-4": {
-            "TAhlin\\PhpSpec\\": "src/"
+            "Ahlin\\PhpSpec\\": "src/"
         }
     },
     "config": {

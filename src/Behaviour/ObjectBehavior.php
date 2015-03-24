@@ -1,6 +1,6 @@
 <?php
 
-namespace TAhlin\PhpSpec\Behaviour;
+namespace Ahlin\PhpSpec\Behaviour;
 
 use PhpSpec\ObjectBehavior as BaseBehavior;
 

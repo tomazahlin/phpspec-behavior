@@ -1,0 +1,29 @@
+{
+    "name": "tomazahlin/phpspec-behavior",
+    "description": "Extended object behavior for PhpSpec",
+    "keywords": ["testing", "phpspec", "bdd"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomaz Ahlin",
+            "email": "tomaz.ahlin2@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "phpspec/phpspec": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TAhlin\\PhpSpec\\": "src/"
+        }
+    },
+    "config": {
+      "bin-dir": "bin"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0-dev"
+        }
+    }
+}
